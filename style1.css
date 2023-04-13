@@ -27,6 +27,19 @@ body{
 .left h1 {
     font-size: 1.2rem;
 }
+.sub {
+    margin: 0 0 30px 0;
+    background-color: rgb(22, 7, 36);
+    display:flex;
+    padding: 5px;
+    justify-content: space-around;
+    align-items: center;
+    line-height: 0.9rem;
+    width: 100vw;
+}
+.right h3 {
+    font-size: 1rem;
+}
 
 
 
